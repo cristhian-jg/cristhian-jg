@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-Bienvenido a mi Github, aquí estaré publicando los projectos y prácticas que vaya haciendo durante mi etapa de estudiante. 🙍‍♂️💻
+Bienvenido a mi Github, aquí estaré publicando los proyectos y prácticas que vaya haciendo durante mi etapa de estudiante. 🙍‍♂️💻
 </p>
 
 <p align="center">
